@@ -6,4 +6,4 @@
 
 |Question|                               Solution                                                                                |
 |:------:|:---------------------------------------------------------------------------------------------------------------------:|
-| Eligible to vote                               				  | [EligibleToVote](https://github.com/kandpaladiti/Java-DSA-Practice-Questions/blob/main/path/to/eligibletovote.java)               									    |
+| Eligible to vote                               				  | [EligibleToVote](https://github.com/kandpaladiti/Java-DSA-Practice-Questions/blob/main/eligibletovote.java)               									    |
